@@ -74,5 +74,4 @@ Every 10 seconds:
 ## 📱 **Perfect For**
 - ✅ **Airdrop Farmers** (keep 20+ nodes running smoothly)
 - ✅ **Power outage areas** (auto-recovers when PC turns back on)
-- ✅ **Remote locations** (monitor from anywhere)
 - ✅ **Low-End PCs** (0% GPU usage, minimal RAM footprint)
