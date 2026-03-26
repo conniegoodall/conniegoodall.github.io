@@ -1,0 +1,6 @@
+=== OCR SCAN RESULTS ===
+WORD: Auto-Login            center=(1415,206)  box=(1383,200,65,12)
+WORD: Login                 center=(707,289)  box=(689,283,37,13)
+WORD: login                 center=(1494,361)  box=(1480,355,28,13)
+WORD: login                 center=(1169,568)  box=(1151,562,36,13)
+DONE

@@ -1,0 +1,6 @@
+Found PIDs: [3552, 31944, 49136, 53792]
+PID 31944: visible window = 'Optimai Core Node'
+  EDIT: text='Email' at (761,379)-(1159,423)
+  EDIT: text='Password' at (761,464)-(1159,508)
+  BUTTON: 'Forgot password'
+  BUTTON: 'Sign in'

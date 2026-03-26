@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "C:\Users\connie\Music\airdrop auto starter\.venv\Lib\site-packages\pywinauto\timings.py", line 436, in wait_until_passes
+    func_val = func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\connie\Music\airdrop auto starter\.venv\Lib\site-packages\pywinauto\findwindows.py", line 87, in find_element
+    raise ElementNotFoundError(kwargs)
+pywinauto.findwindows.ElementNotFoundError: {'title_re': '.*Optim.*', 'backend': 'uia', 'visible_only': False}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+  File "C:\Users\connie\Music\airdrop auto starter\.venv\Lib\site-packages\pywinauto\application.py", line 990, in connect
+    self.process = timings.wait_until_passes(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\connie\Music\airdrop auto starter\.venv\Lib\site-packages\pywinauto\timings.py", line 458, in wait_until_passes
+    raise err
+pywinauto.timings.TimeoutError
